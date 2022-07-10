@@ -2,8 +2,6 @@
 
 # Site Link : https://justsearch.karandua1.repl.co/
 
-# Video Link : https://www.youtube.com/watch?v=b53aquxpFgo
-
 # Overview
 This Site Provide you search Engine Facility with dark mode also. It also provide you the facility of drive storage. The last feature is map. If you want to know the path of your destination or want to know the expected time to reach your destinaion then it is very helpful for you.
 
